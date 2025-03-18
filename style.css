@@ -1,0 +1,81 @@
+.salom{
+    text-align: center;
+    background-color:rgba(126, 103, 242, 0.492);
+    border: 3px solid red;
+    border-radius: 20px;
+}
+.men{
+    color: red;
+}
+.hello{
+    color: green;
+}
+.box{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+.sening{
+    text-align: center;
+}
+.akk{
+    text-align: center;
+    background-color: black;
+}
+.sen{
+    background-color: yellow;
+    text-align: center;
+    color:green;
+}
+.sws{
+    color: green;
+}
+.san{
+    color: green;
+}
+textarea{
+    width:90%;
+}
+button{
+    background-color: rgb(6, 208, 248);
+    color: white;
+    width: 20%;
+    height: 30px;
+    font-size:18px;
+    
+}
+.hayvonlar{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+.swq{
+    background-color:red;
+    color: white;
+}
+.salommen{
+    background-color:red;
+    color: white;
+}
+.senim{
+    background-color: green;
+    color: white;
+}
+.qiziq{
+    background-color: blue;
+    color: white;
+}
+.sdd{
+    background-color: black;
+    color: white;
+}
+.sddw{
+    background-color: black;
+    color: white;
+}
+.sdda{
+    width: 90%;
+    text-align: center;
+    font-size: 22px;
+    
+}
